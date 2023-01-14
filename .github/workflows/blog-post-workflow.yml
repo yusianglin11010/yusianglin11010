@@ -15,3 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://yusianglin11010.github.io/index.xml"
+          template: "$newline - $emojiKey(📗,📘,📙,📓,📕) [$title]($url)"
