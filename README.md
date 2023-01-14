@@ -19,5 +19,9 @@
     </a>
 </p>
 
+## 📖 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 **build by github action with [github readme state](https://github.com/anuraghazra/github-readme-stats#github-extra-pins) and [CI/CD tool](https://github.com/gautamkrishnar/blog-post-workflow)*
