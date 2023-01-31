@@ -21,7 +21,7 @@
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - 📗 [Run Docker on Aws](https://yusianglin11010.github.io/2023/01/docker-on-aws/)<!-- BLOG-POST-LIST:END -->
 
 
 **build by github action with [github readme state](https://github.com/anuraghazra/github-readme-stats#github-extra-pins) and [CI/CD tool](https://github.com/gautamkrishnar/blog-post-workflow)*
